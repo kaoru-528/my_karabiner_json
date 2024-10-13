@@ -1,0 +1,2 @@
+# karabiner_element
+このリポジトリはkarabiner_elementの設定を管理するためのjsonです。
